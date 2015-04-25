@@ -1,0 +1,21 @@
+{
+  "name": "xp-fs",
+  "license": "BSD-3-Clause",
+  "description": "This is an improvement of NodeJS fs.",
+  "version": "0.8.0",
+  "homepage": "https://github.com/ExpandJS/xp-fs",
+  "author": "ExpandJS <dev@expandjs.com> (http://www.expandjs.com)",
+  "contributors": [
+    "Giuliano Rullo <g.rullo@expandjs.com>",
+    "Maurizio Stefàno <m.stefano@expandjs.com>",
+    "Robert Manolea <r.manolea@expandjs.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExpandJS/xp-fs.git"
+  },
+  "dependencies": {
+    "graceful-fs": "^3.0.0",
+    "expandjs": "*"
+  }
+}
