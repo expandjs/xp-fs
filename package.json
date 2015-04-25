@@ -1,7 +1,7 @@
 {
   "name": "xp-fs",
   "license": "BSD-3-Clause",
-  "description": "This is an improvement of NodeJS fs.",
+  "description": "This is an improvement of NodeJS's fs.",
   "version": "0.8.0",
   "homepage": "https://github.com/ExpandJS/xp-fs",
   "author": "ExpandJS <dev@expandjs.com> (http://www.expandjs.com)",
