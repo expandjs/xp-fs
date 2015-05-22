@@ -17,5 +17,10 @@
   "dependencies": {
     "graceful-fs": "^3.0.0",
     "expandjs": "*"
-  }
+  },
+  "keywords": [
+      "expandjs",
+      "web app",
+      "file system"
+  ]
 }
