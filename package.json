@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "graceful-fs": "^3.0.0",
-    "expandjs": "*"
+    "expandjs": "^0.8.12"
   },
   "keywords": [
       "expandjs",
