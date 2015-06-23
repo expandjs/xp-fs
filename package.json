@@ -2,7 +2,7 @@
   "name": "xp-fs",
   "license": "BSD-3-Clause",
   "description": "This is an improvement of NodeJS's fs.",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "homepage": "https://github.com/ExpandJS/xp-fs",
   "author": "ExpandJS <dev@expandjs.com> (http://expandjs.com)",
   "contributors": [
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "graceful-fs": "^3.0.0",
-    "expandjs": "*"
+    "expandjs": "^0.9.1"
   },
   "keywords": [
       "expandjs",
