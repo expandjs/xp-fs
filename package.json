@@ -1,26 +1,24 @@
 {
   "name": "xp-fs",
+  "description": "An improvement of the \"fs-extra\" npm module",
+  "version": "1.0.0",
   "license": "BSD-3-Clause",
-  "description": "An improvement of NodeJS's file system module",
-  "version": "0.10.0",
-  "homepage": "https://github.com/ExpandJS/xp-fs",
-  "author": "ExpandJS <dev@expandjs.com> (http://expandjs.com)",
+  "homepage": "https://expandjs.com",
+  "author": "ExpandJS <dev@expandjs.com> (https://expandjs.com)",
+
   "contributors": [
     "Giuliano Rullo <g.rullo@expandjs.com>",
     "Maurizio Stefàno <m.stefano@expandjs.com>",
     "Robert Manolea <r.manolea@expandjs.com>"
   ],
+
   "repository": {
     "type": "git",
-    "url": "https://github.com/ExpandJS/xp-fs.git"
+    "url": "https://github.com/expandjs/xp-fs.git"
   },
+
   "dependencies": {
-    "graceful-fs": "^3.0.0",
-    "expandjs": "0.10.0"
-  },
-  "keywords": [
-      "expandjs",
-      "web app",
-      "fs"
-  ]
+    "expandjs": "^1.0.0",
+    "fs-extra": "^1.0.0"
+  }
 }
