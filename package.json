@@ -1,7 +1,7 @@
 {
   "name": "xp-fs",
   "description": "An improvement of the \"fs-extra\" npm module",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "BSD-3-Clause",
   "homepage": "https://expandjs.com",
   "author": "ExpandJS <dev@expandjs.com> (https://expandjs.com)",
